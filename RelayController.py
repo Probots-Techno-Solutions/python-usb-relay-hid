@@ -3,8 +3,8 @@ from time import sleep
 
 
 class RelayController:
-    USB_CFG_VENDOR_ID = 0x16c0  # /* 5824 = voti.nl */
-    USB_CFG_DEVICE_ID = 0x05DF  # /* obdev's shared PID for HIDs */
+    USB_CFG_VENDOR_ID = 0x16c0  # 5824 = voti.nl
+    USB_CFG_DEVICE_ID = 0x05DF  # obdev's shared PID for HIDs
 
     filter = None
     hid_device = None
