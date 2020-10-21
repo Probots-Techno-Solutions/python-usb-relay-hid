@@ -1,5 +1,5 @@
 # RelayController
-This python class is useful to control a low-cost 5V 2 Channel USB Relay Shield for Arduino USB Relais Modul for Arduino CP0402C
+This python class is useful to control a low-cost 5V 2 Channel USB Relay Shield for Arduino USB Relais Modul ( CP0402C )
 
 
 # Pre-condition
